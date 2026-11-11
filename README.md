@@ -50,6 +50,12 @@ Copy `config.example.json` to `config.json` and fill in your own settings.
 Never commit your real `config.json`.
 
 
+## 🔮 Future Improvements
+
+*Removal of unknwon devices
+*Providing a sms alert service
+
+  
 ## 🪪 License
 - MIT
 
