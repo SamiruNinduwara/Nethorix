@@ -35,7 +35,7 @@ alerts you about what it finds.
 [📊 Download Diagram](https://github.com/SamiruNinduwara/Nethorix/blob/main/Arduino%20Code%20%26%20Diagram/Diagram.png)
 
 
-## Brand
+## 🏷️ Brand
 See the [Brand Book](docs/Nethorix_Brand_Book.pdf) for the logo, colors and typography.
 
 
