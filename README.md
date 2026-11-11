@@ -24,7 +24,7 @@ alerts you about what it finds.
 - Windows
 - Arduino board (optional, for LED and buzzer alerts)
 
-## Download
+## ⬇️ Download
 
 [⬇️ Download Nethorix v1.0](https://github.com/SamiruNinduwara/Nethorix/releases/download/v1.0/Nethorix.v1.0.exe)
 
@@ -40,7 +40,7 @@ See the [Brand Book]([docs/Nethorix_Brand_Book.pdf](https://github.com/SamiruNin
 Copy `config.example.json` to `config.json` and fill in your own settings.
 Never commit your real `config.json`.
 
-## License
+## 🪪 License
 - MIT
 
 - Developed by Samiru Ninduwara
