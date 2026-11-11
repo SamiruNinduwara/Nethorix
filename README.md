@@ -25,10 +25,6 @@ alerts you about what it finds.
 - Python 3.x
 - Arduino board (optional, for LED and buzzer alerts)
 
-## Run from source
-    pip install -r requirements.txt
-    python network_alarm_app.py
-
 ## Download
 
 [⬇️ Download Nethorix v1.0](https://github.com/SamiruNinduwara/Nethorix/releases/download/v1.0/Nethorix.v1.0.exe)
