@@ -29,6 +29,10 @@ alerts you about what it finds.
 
 [⬇️ Download Nethorix v1.0](https://github.com/SamiruNinduwara/Nethorix/releases/download/v1.0/Nethorix.v1.0.exe)
 
+[⬇️ Download Arduino Code](
+
+[⬇️ Download Diagram](
+
 
 Builds a single-file exe with PyInstaller. The installer is made with Inno Setup (`installer.iss`).
 
