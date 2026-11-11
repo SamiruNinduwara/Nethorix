@@ -41,6 +41,6 @@ Copy `config.example.json` to `config.json` and fill in your own settings.
 Never commit your real `config.json`.
 
 ## License
-MIT
+- MIT
 
-Developed by Samiru Ninduwara
+- Developed by Samiru Ninduwara
