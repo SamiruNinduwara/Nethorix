@@ -1,5 +1,6 @@
 # Nethorix - Network Guard
 
+
 A Windows desktop app built with Python (Tkinter) that scans your network and
 alerts you about what it finds.
 
@@ -8,6 +9,7 @@ alerts you about what it finds.
 </p>
 
 <h1 align="center">Nethorix - Network Guard</h1>
+
 
 
 ## 🚀 Features
@@ -20,9 +22,13 @@ alerts you about what it finds.
 - Excel alert report (`alerts_report.xlsx`) with export [confirm]
 - Email password stored in encrypted storage (keyring) [confirm]
 
+
+
 ## 📌 Requirements
 - Windows
 - Arduino board (optional, for LED and buzzer alerts)
+
+
 
 ## ⬇️ Download
 
@@ -42,6 +48,7 @@ See the [Brand Book](docs/Nethorix_Brand_Book.pdf) for the logo, colors and typo
 ## 🛠️ Configuration
 Copy `config.example.json` to `config.json` and fill in your own settings.
 Never commit your real `config.json`.
+
 
 ## 🪪 License
 - MIT
