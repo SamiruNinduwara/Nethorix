@@ -53,6 +53,7 @@ Never commit your real `config.json`.
 ## 🔮 Future Improvements
 
 *Removal of unknwon devices
+
 *Providing a sms alert service
 
   
