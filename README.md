@@ -22,7 +22,6 @@ alerts you about what it finds.
 
 ## Requirements
 - Windows
-- Python 3.x
 - Arduino board (optional, for LED and buzzer alerts)
 
 ## Download
@@ -44,4 +43,4 @@ Never commit your real `config.json`.
 ## License
 MIT
 
-## Developed by Samiru Ninduwara
+Developed by Samiru Ninduwara
