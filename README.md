@@ -29,11 +29,13 @@ alerts you about what it finds.
 
 [⬇️ Download Nethorix v1.0](https://github.com/SamiruNinduwara/Nethorix/releases/download/v1.0/Nethorix.v1.0.exe)
 
-## Brand
-See the [Brand Book](docs/Nethorix_Brand_Book.pdf) for the logo, colors and typography.
-
 
 Builds a single-file exe with PyInstaller. The installer is made with Inno Setup (`installer.iss`).
+
+
+## Brand
+See the [Brand Book]([docs/Nethorix_Brand_Book.pdf](https://github.com/SamiruNinduwara/Nethorix/blob/main/docs/Nethorix_Brand_Book.pdf)) for the logo, colors and typography.
+
 
 ## Configuration
 Copy `config.example.json` to `config.json` and fill in your own settings.
