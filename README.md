@@ -10,7 +10,7 @@ alerts you about what it finds.
 <h1 align="center">Nethorix - Network Guard</h1>
 
 
-## Features
+## 🚀 Features
 - Network scanning with a desktop GUI (dark mode supported)
 - Security monitoring (`security_monitor.py`)
 - Phone dashboard (`dashboard.py`) to view status from your phone
@@ -20,7 +20,7 @@ alerts you about what it finds.
 - Excel alert report (`alerts_report.xlsx`) with export [confirm]
 - Email password stored in encrypted storage (keyring) [confirm]
 
-## Requirements
+## 📌 Requirements
 - Windows
 - Arduino board (optional, for LED and buzzer alerts)
 
@@ -32,11 +32,11 @@ alerts you about what it finds.
 Builds a single-file exe with PyInstaller. The installer is made with Inno Setup (`installer.iss`).
 
 
-## Brand
+## 🏷️ Brand
 See the [Brand Book]([docs/Nethorix_Brand_Book.pdf](https://github.com/SamiruNinduwara/Nethorix/blob/main/docs/Nethorix_Brand_Book.pdf)) for the logo, colors and typography.
 
 
-## Configuration
+## 🛠️ Configuration
 Copy `config.example.json` to `config.json` and fill in your own settings.
 Never commit your real `config.json`.
 
