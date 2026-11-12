@@ -52,9 +52,9 @@ Never commit your real `config.json`.
 
 ## 🔮 Future Improvements
 
-*Removal of an unknwon devices
+- Removal of an unknwon devices
 
-*Providing a sms alert service
+- Providing a sms alert service
 
   
 ## 🪪 License
