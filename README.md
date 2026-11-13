@@ -59,7 +59,7 @@ Never commit your real `config.json`.
 
 ## 📱 Screenshots
 
-<p align="right">
+<p align="left">
   <img src="screenshots/Alert-setting.jpeg" width="220">
   <img src="screenshots/Detect.jpeg" width="220">
   <img src="screenshots/Safe.jpeg" width="220">
