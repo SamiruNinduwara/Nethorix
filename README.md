@@ -56,6 +56,16 @@ Never commit your real `config.json`.
 
 - Providing a sms alert service
 
+
+## 📱 Screenshots
+
+<p align="right">
+  <img src="screenshots/Alert-setting.jpeg" width="220">
+  <img src="screenshots/Detect.jpeg" width="220">
+  <img src="screenshots/Safe.jpeg" width="220">
+</p>
+
+
   
 ## 🪪 License
 - MIT
