@@ -60,9 +60,9 @@ Never commit your real `config.json`.
 ## 📱 Screenshots
 
 <p align="left">
-  <img src="screenshots/Alert setting.png" width="250" height="300">
-  <img src="screenshots/Detect.png" width="250" height="300">
-  <img src="screenshots/Safe.png" width="250" height="300">
+  <img src="screenshots/Alert setting.png" width="300" height="500">
+  <img src="screenshots/Detect.png" width="300" height="500">
+  <img src="screenshots/Safe.png" width="300" height="500">
 </p>
 
 
